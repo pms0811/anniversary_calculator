@@ -1,4 +1,4 @@
-DOMAIN = "anniversary-calculator"
+DOMAIN = "anniversary_calculator"
 NAME = "Anniversary Calculator"
 PLATFORM = "sensor"
 
